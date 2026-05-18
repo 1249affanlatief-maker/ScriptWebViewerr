@@ -1,2 +1,0 @@
-# ScriptWebViewerr
-tugas 1
